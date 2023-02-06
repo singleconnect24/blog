@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://singleconnect24.github.io/blog/sitemap.xml
